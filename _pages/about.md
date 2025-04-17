@@ -2,7 +2,7 @@
  * @Author: StevenHH2000 hlxhe2000@hotmail.com
  * @Date: 2025-04-17 02:39:36
  * @LastEditors: StevenHH2000 hlxhe2000@hotmail.com
- * @LastEditTime: 2025-04-17 02:47:23
+ * @LastEditTime: 2025-04-17 03:05:55
  * @FilePath: /code/hehulingxiao.github.io/_pages/about.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -33,10 +33,10 @@ My current research mainly focuses on **multi-modal large language models** (MLL
 
 ## Experience
 
-- **Postgraduate Student**  <img src="../images/PKU.png" alt="PKU Logo" width="40" style="vertical-align: middle;"/>  
+- **Ph.D. Student**  <img src="../images/PKU.png" alt="PKU Logo" width="40" style="vertical-align: middle;"/>  
   <span style="color: rgb(154, 3, 2);"> MIPL Lab, Peking University (PKU) </span>  
-  August 2022 - July 2025    
-  Mainly focusing on <span style="background-color: rgb(255, 182, 193);">multimodal retrieval and generation</span>, particularly video-to-image retrieval, multi-modal fusion retrieval, and virtual try-on generation. Relevant work has been published in AAAI, ACM MM, and TOMM.  
+  August 2023 - Now  
+  Mainly focusing on <span style="background-color: rgb(255, 182, 193);">multi-modal large language models</span>, particularly MLLMs for fine-grained visual tasks like fine-grained visual recognition (FGVR). These works have been published in **ICLR'25**, with a paper currently under review at **ACM MM'25**.
   Advisor: Yuxin Peng
 
 - **Intern**  <img src="../images/kwai.png" alt="Kwai Logo" width="40" style="vertical-align: middle;"/>  
