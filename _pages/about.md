@@ -1,6 +1,14 @@
+<!--
+ * @Author: StevenHH2000 hlxhe2000@hotmail.com
+ * @Date: 2025-04-17 02:39:36
+ * @LastEditors: StevenHH2000 hlxhe2000@hotmail.com
+ * @LastEditTime: 2025-04-17 02:47:23
+ * @FilePath: /code/hehulingxiao.github.io/_pages/about.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 permalink: /
-title: "Yanzhe Chen (陈彦哲)"
+title: "Hulingxiao He (何胡凌霄)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +17,13 @@ redirect_from:
 
 ## Biography
 
-I am a second-year master's student, set to graduate in the summer of 2025, from [Academy for Advanced Interdisciplinary Studies (AAIS)](http://www.aais.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
+I am a second-year Ph.D. student, advised by [Prof. Yuxin Peng](http://39.108.48.32/mipl/pengyuxin/) of [MIPL Lab](http://39.108.48.32/mipl/home/) from [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
 
-I am very fortunate to be advised by [Prof. Yuxin Peng](http://39.108.48.32/mipl/pengyuxin/) of [MIPL Lab](http://39.108.48.32/mipl/home/) from [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/), Peking University.
+My current research mainly focuses on **multi-modal large language models** (MLLMs), particularly MLLMs for fine-grained visual tasks like fine-grained visual recognition (FGVR). These works have been published in **ICLR'25**, with a paper currently under review at **ACM MM'25**.
 
-My current research mainly focuses on **multi-modal representation and generation**, particularly video-to-image retrieval, multi-modal fusion retrieval, and virtual try-on generation. These works have been published in **AAAI'24**, **ACM MM'23**, and **TOMM'24**, with a paper currently under review at **NeurIPS'24**.
+<!-- During my Ph.D., my research interests include **video understanding, multi-modal, and AIGC**. I am particularly interested in exploring <span style="background-color: rgb(221, 243, 253);">efficient modality aggregation, optimized model architectures, .and close integration with real-world scenarios</span>, which I believe are essential technological foundations for a universal AI assistant -->
 
-During my Ph.D., my research interests include **video understanding, multi-modal, and AIGC**. I am particularly interested in exploring <span style="background-color: rgb(221, 243, 253);">efficient modality aggregation, optimized model architectures, and close integration with real-world scenarios</span>, which I believe are essential technological foundations for a universal AI assistant.
-
-You can find my CV here: [Yanzhe Chen's Curriculum Vitae](../assets/1_CV_YanzheChen.pdf).
+<!-- You can find my CV here: [Yanzhe Chen's Curriculum Vitae](../assets/1_CV_YanzheChen.pdf). -->
 
 <!-- [Email](mailto:chenyanzhe@stu.pku.edu.cn) / [Github](https://github.com/ChenAnno) / [Wechat](../images/wechat.png) -->
 
